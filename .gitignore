@@ -1,0 +1,8 @@
+/.settings/*
+/Debug/*
+/Design/pieces/*
+/Output/pieces/*
+/Release/*
+/Startup/*
+*.ld
+
